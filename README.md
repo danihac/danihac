@@ -30,5 +30,4 @@
 - 👀 I’m interested in front-end technology
 - ⌨️ I write the most in Angular and Flutter
 - 🔥 I’m currently learning Node, React, Next
-- 📫 How to reach me https://www.linkedin.com/in/daniel-hachula
 - 💪 Recently my new hobby is collecting points on [daily.dev](https://daily.dev/)
