@@ -31,12 +31,14 @@
 - ⌨️ I write the most in Angular and Flutter
 - 🔥 I’m currently learning Node, React, Next
 - 💪 Recently my new hobby is collecting points on [daily.dev](https://daily.dev/)
+  
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,reactivex,react,nextjs,ts,js,html,css,sass,nodejs,nestjs,flutter,dart,spring&perline=8" />
+    <img src="https://skillicons.dev/icons?i=angular,reactivex,flutter,dart,react,nextjs,ts,js,html,css,sass,nodejs,nestjs,spring&perline=8" />
   </a>
 </p>
+
 
 <p align="left">
   <a href="https://skillicons.dev">
