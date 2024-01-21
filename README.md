@@ -34,7 +34,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,reactivex,react,ts,js,html,css,sass,nodejs,nestjs,flutter,dart,spring&perline=8" />
+    <img src="https://skillicons.dev/icons?i=angular,reactivex,react,nextjs,ts,js,html,css,sass,nodejs,nestjs,flutter,dart,spring&perline=8" />
   </a>
 </p>
 
