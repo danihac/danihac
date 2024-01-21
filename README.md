@@ -32,13 +32,13 @@
 - 🔥 I’m currently learning Node, React, Next
 - 💪 Recently my new hobby is collecting points on [daily.dev](https://daily.dev/)
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=angular,reactivex,react,ts,js,html,css,sass,nodejs,nestjs,flutter,dart,spring&perline=8" />
   </a>
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=supabase,firebase,gcp,git,docker,figma,bootstrap,jenkins,postgres,postman,bash,redux,regex,vite,vscode,webpack&perline=8" />
   </a>
