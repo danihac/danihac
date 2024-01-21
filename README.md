@@ -42,6 +42,6 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=supabase,firebase,gcp,git,docker,figma,bootstrap,jenkins,postgres,postman,bash,redux,regex,vite,vscode,webpack&perline=8" />
+    <img src="https://skillicons.dev/icons?i=supabase,firebase,gcp,git,docker,figma,materialui,bootstrap,jenkins,postgres,postman,bash,redux,regex,vite,vscode,webpack&perline=8" />
   </a>
 </p>
