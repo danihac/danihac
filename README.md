@@ -29,16 +29,17 @@
 
 - 👀 I’m interested in front-end technology
 - ⌨️ I write the most in Angular and Flutter
-- 🔥 I’m currently learning Node, React, Next
+- 💻 I recently made my own custom CLI for my current company
+- 🔥 I'm currently working on my own AI assistant
 - 💪 Recently my new hobby is collecting points on [daily.dev](https://daily.dev/)
-  
 
+</br>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=angular,reactivex,flutter,dart,react,nextjs,ts,js,html,css,sass,nodejs,nestjs,spring&perline=8" />
   </a>
 </p>
-
+</br>
 
 <p align="left">
   <a href="https://skillicons.dev">
