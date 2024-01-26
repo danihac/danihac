@@ -14,7 +14,7 @@
     />
   </a>
 
-  <a href="https://api.daily.dev/Proxydeer" target="_blank">
+  <a href="https://api.daily.dev/proxydeer" target="_blank">
     <img
       width="288"
       height="400"
