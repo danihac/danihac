@@ -46,6 +46,7 @@
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html" /></a>
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=css" /></a>
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=sass" /></a>
+  <br />
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs" /></a>
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nestjs" /></a>
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=spring" /></a>
@@ -55,16 +56,17 @@
 <p align="left">
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=firebase" /></a>
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=gcp" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Jules-242938?style=flat-square&logo=googlejules&logoColor=715CD7" height="48" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Claude-242938?style=flat-square&logo=claude&logoColor=D97757" height="48" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Play%20Store-242938?style=flat-square&logo=googleplay&logoColor=414141" height="48" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Apple%20Store-242938?style=flat-square&logo=appstore&logoColor=0D96F6" height="48" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Google%20Antigravity-242938?style=flat-square&logo=google&logoColor=4285F4" height="48" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Google%20AI%20Studio-242938?style=flat-square&logo=googlegemini&logoColor=8E75B2" height="48" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Stripe-242938?style=flat-square&logo=stripe&logoColor=008CDD" height="48" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/-RevenueCat-242938?style=flat-square&logo=revenuecat&logoColor=F55036" height="48" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Bunny.net-242938?style=flat-square&logo=bunnydotnet&logoColor=FFB20E" height="48" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/-shadcn-242938?style=flat-square&logo=shadcnui&logoColor=000000" height="48" /></a>
+  <a href="#"><img src="assets/Jules.svg" height="48" /></a>
+  <a href="#"><img src="assets/Claude.svg" height="48" /></a>
+  <a href="#"><img src="assets/Play_Store.svg" height="48" /></a>
+  <a href="#"><img src="assets/Apple_Store.svg" height="48" /></a>
+  <a href="#"><img src="assets/Google_Antigravity.svg" height="48" /></a>
+  <a href="#"><img src="assets/Google_AI_Studio.svg" height="48" /></a>
+  <a href="#"><img src="assets/Stripe.svg" height="48" /></a>
+  <a href="#"><img src="assets/RevenueCat.svg" height="48" /></a>
+  <a href="#"><img src="assets/Bunny_net.svg" height="48" /></a>
+  <br />
+  <a href="#"><img src="assets/shadcn.svg" height="48" /></a>
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=supabase" /></a>
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git" /></a>
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker" /></a>
