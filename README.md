@@ -1,5 +1,15 @@
 # Hi there 👋
 
+<a href="https://app.daily.dev/proxydeer" target="_blank">
+  <img
+    width="288"
+    height="400"
+    align="right"
+    src="https://api.daily.dev/devcards/e07dcd94aa994388931c48bc7ed76d56.png?r=6vk"
+    alt="Daniel Hachuła's Dev Card"
+  />
+</a>
+
 <div align="left">
   <a href="https://twitter.com/Daniel67570969">
     <img
@@ -13,16 +23,6 @@
       alt="LinkedIn"
     />
   </a>
-
-  <a href="https://app.daily.dev/proxydeer" target="_blank">
-    <img
-      width="288"
-      height="400"
-      align="right"
-      src="https://api.daily.dev/devcards/e07dcd94aa994388931c48bc7ed76d56.png?r=6vk"
-      alt="Daniel Hachuła's Dev Card"
-    />
-  </a>
 </div>
 
 ## I am Daniel Hachuła
@@ -32,6 +32,8 @@
 - 💻 I recently made my own custom CLI for my current company
 - 🔥 I'm currently working on my own AI assistant
 - 💪 Recently my new hobby is collecting points on [daily.dev](https://daily.dev/)
+
+<br clear="both">
 
 </br>
 <p align="left">
